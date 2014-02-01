@@ -5,7 +5,7 @@
     "karma-plugin",
     "browserify"
   ],
-  "version": "0.0.6",
+  "version": "0.5.0",
   "author": {
     "name": "Greg Thornton",
     "email": "xdissent@me.com",
