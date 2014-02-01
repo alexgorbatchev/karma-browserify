@@ -16,7 +16,7 @@
     {"name": "Alex Gorbatchev", "url": "https://github.com/alexgorbatchev"},
     {"name": "Peter Lyons", "url": "https://github.com/focusaurus"}
   ],
-  "main": "./index.js",
+  "main": "./lib/index.js",
   "license": "MIT",
   "homepage": "https://github.com/xdissent/karma-browserify",
   "repository": {
